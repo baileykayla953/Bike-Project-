@@ -54,19 +54,19 @@ I created Pivot Tables to deep dive into the data and reveal patterns for the fo
 - Martial Status
 - Homeowner VS Renter
 
-<img width="290" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/ac83f83d-51b8-4adc-ae27-918b42c86786">
+<img width="290" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/ac83f83d-51b8-4adc-ae27-918b42c86786">,
 
-<img width="284" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/18a90f31-ed7a-43b4-bf4a-b8e2b9093eff">
+<img width="284" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/18a90f31-ed7a-43b4-bf4a-b8e2b9093eff">,
 
-<img width="286" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/49c8bf37-baf0-4c55-831d-070e8acff620">
+<img width="286" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/49c8bf37-baf0-4c55-831d-070e8acff620">,
 
-<img width="224" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/042abc32-9ed1-4573-9546-4b283d8af778">
+<img width="224" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/042abc32-9ed1-4573-9546-4b283d8af778">,
 
-<img width="283" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/33c7c666-912d-4481-852e-8613e964c41b">
+<img width="283" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/33c7c666-912d-4481-852e-8613e964c41b">,
 
-<img width="223" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/8f3a74bc-db4b-4f0d-a2b1-aca9d9e1eb5a">
+<img width="223" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/8f3a74bc-db4b-4f0d-a2b1-aca9d9e1eb5a">,
 
-<img width="281" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/f880f416-b701-45c2-a60b-142dcfb88b23">
+<img width="281" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/f880f416-b701-45c2-a60b-142dcfb88b23">,
 
 
 
