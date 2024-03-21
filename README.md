@@ -88,15 +88,12 @@ I created Pivot Tables to deep dive into the data and reveal patterns for the fo
 
 
   <img width="441" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/ba8f9726-8c68-4439-b7ca-dfca5fef05d5">,
-  
-  <img width="408" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/2cb18191-7f25-4d00-9449-3a8ce8600850">
-  
-  <img width="400" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/c35af106-8d9c-4534-bfb6-e3645a92cbf8">
-  
-  <img width="364" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/0a89c396-8e26-4773-b5f3-150054232b86">
-  <img width="360" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/ef444ea0-4542-48eb-a598-e2539932395f">
-  <img width="360" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/f6c3ab91-3a36-4d20-a771-a2b0d71211d1">
-  <img width="361" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/795b1a99-c86a-45d6-b2e9-183be147f15b">
+  <img width="408" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/2cb18191-7f25-4d00-9449-3a8ce8600850">,
+  <img width="400" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/c35af106-8d9c-4534-bfb6-e3645a92cbf8">,
+  <img width="364" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/0a89c396-8e26-4773-b5f3-150054232b86">,
+  <img width="360" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/ef444ea0-4542-48eb-a598-e2539932395f">,
+  <img width="360" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/f6c3ab91-3a36-4d20-a771-a2b0d71211d1">,
+  <img width="361" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/795b1a99-c86a-45d6-b2e9-183be147f15b">,
 
 
   
