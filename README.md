@@ -85,6 +85,9 @@ Dashboard was created for easy understanding with splicers in place for filterin
   <img width="406" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/0d3f8042-d4e8-464d-aff1-ff6c9f59f72b">
 
 
+### Data Analysis Findings
+
+
   
 
 
