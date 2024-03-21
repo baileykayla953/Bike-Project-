@@ -85,7 +85,55 @@ Dashboard was created for easy understanding with splicers in place for filterin
   <img width="406" alt="image" src="https://github.com/baileykayla953/Bike-Project-/assets/118647940/0d3f8042-d4e8-464d-aff1-ff6c9f59f72b">
 
 
-### Data Analysis Findings
+### Data Analysis Key Findings
+
+## North America Target Consumer 
+-Single
+-Homeowner
+-Bachelors Degree
+-Middle Aged
+-Skilled Manual Labor
+-Commute Distance 0-1,2-5 Miles 
+- Male Average Salary $73,0000
+- Female Average Salary 70,000
+
+Marketing in the North American Region can target middle class consumers that are looking for cost efficency. These consumers are also people who value manual labor and are probably in shape. They value hard work. Creating copy write and Ads that embody these ideals would reach our target. Knowing that cost efficiency is of importance running sales or promos can also lead to possible buys. 
+### Marketing Focus
+- Exercise
+- Cost Effective way if you have a short distance to travel 
+
+## Europe Target Consumer
+-Married
+-Bachelors or Graduate Degree
+-Homeowner
+-Middle Aged 
+-Clerical Work 
+-0-1 mile commute
+-$45,000 Male 
+-$35,000 Female 
+
+Marketing in the Europe Region will need a focus in cost. Typically this consumer has a smaller salary and a short commute. This consumer tends to do clerical work, and may use this short commute as exercise from sitting all day on the job. 
+### Marketing Focus
+- Cost effective way to get around 
+- Exercise
+
+## Pacific Target Consumer
+-Married or Single
+-Single- renter / Married- homeowner
+-All education levels
+-Management and Skilled Labor
+-0-1 mile or 5-10 miles commute
+-Male Married Salary- 67K
+-Female Married Salary - 60K
+-Male Single Salary - 63K
+-Female Single Salary- 64K
+
+Marketing in the Pacific Region doesn't appear to have a focus as much in cost. The target consumer is married or single and can rent or be a homeowner. They typically have an occupation in Management or a skilled labor. Buying a bike could be to a stress relief or used as exercise with their short commute or the 5-10 miles scenic commute. Whether they're single or married the salary is relatively the same in relation to the decision of buying a bike 
+### Marketing Focus 
+- Scenic Rides
+- Stress Relief
+
+
 
 
   
